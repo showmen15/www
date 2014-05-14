@@ -15,6 +15,7 @@ int main(int argc, char* argv[])
 
 	int yyy;
 
+
 	scanf("%d",&yyy);
 
 	return 0;
