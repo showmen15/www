@@ -78,7 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="make.txt" />
+    <Text Include="make.sh" />
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
