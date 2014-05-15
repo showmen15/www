@@ -30,6 +30,8 @@ int main(int argc, char* argv[])
 
 	//X = ((double)rand() / RAND_MAX) * MaxX; 
 
+//testowe
+
 	scanf("%d",&yyy);
 
 	return 0;
