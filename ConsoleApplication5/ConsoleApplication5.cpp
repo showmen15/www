@@ -6,17 +6,17 @@
 
 //#include "stdafx.h"
 
-#include <stdio.h>
+//#include <stdio.h>
 #include <stdio.h>
 #include <sstream>
 #include <math.h>
 #include <iostream>
-#include <conio.h>
+//#include <conio.h>
 #include <stdio.h>
 #include <string.h>
 #include <string>
 #include <vector>
-#include <stdio.h>
+//#include <stdio.h>
 #include <stdlib.h>
 
 int main(int argc, char* argv[])
