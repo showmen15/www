@@ -28,6 +28,8 @@ int main(int argc, char* argv[])
 
 	X = (double)rand();
 
+
+	//test
 //
 	//X = ((double)rand() / RAND_MAX) * MaxX; 
 
