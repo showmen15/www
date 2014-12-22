@@ -25,6 +25,9 @@ int main(int argc, char* argv[])
 
 	int yyy;
 	double X;
+	
+	
+	//cs tam cos tam
 
 	X = (double)rand();
 
